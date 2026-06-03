@@ -34,13 +34,3 @@ Historical market data is used to estimate return and volatility parameters, whi
 * Matplotlib
 * yfinance
 * Jupyter Notebook
-
-## Key Concepts
-
-* Monte Carlo Methods
-* Stochastic Processes
-* Geometric Brownian Motion
-* Samuelson-Merton Model
-* Value at Risk (VaR)
-* Expected Shortfall (ES)
-* Portfolio Risk Management
